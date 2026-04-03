@@ -1,4 +1,4 @@
-
+Wave Executor — #1 roblox executor with no-ban guarantee and auto-execute for 2026 Wave is a Roblox executor with a no-ban guarantee, offering users a safe and reliable tool to run scripts and enhance their gameplay in Roblox.
 
 
 ---
